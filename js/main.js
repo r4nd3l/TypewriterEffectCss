@@ -1,0 +1,1 @@
+// Default DevCorner JavaScript Setting 
